@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "image": "/images/travel/travel (1).jpg",
+    "title": "Historic Wonders of Stonehenge & Oxford Tour",
+    "location": "Wiltshire, England",
+    "time": "12+ hours",
+    "type": "Cultural & Historical Tours",
+    "rating": 4.9,
+    "reviews": "1,245",
+    "price": "65"
+  },
+  {
+    "id": 2,
+    "image": "/images/travel/travel (2).jpg",
+    "title": "Barcelona Gothic Quarter Walking Tour",
+    "location": "Ciutat Vella, Barcelona",
+    "time": "3+ hours",
+    "type": "Walking & Sightseeing Tours",
+    "rating": 4.7,
+    "reviews": "876",
+    "price": "50"
+  },
+  {
+    "id": 3,
+    "image": "/images/travel/travel (3).jpg",
+    "title": "Thames Luxury Boat Cruise with Dinner",
+    "location": "London, United Kingdom",
+    "time": "2–3 hours",
+    "type": "Private & Luxury Cruises",
+    "rating": 4.8,
+    "reviews": "2,300",
+    "price": "110"
+  },
+  {
+    "id": 4,
+    "image": "/images/travel/travel (4).jpg",
+    "title": "Edinburgh Haunted History Walking Tour",
+    "location": "Edinburgh, Scotland",
+    "time": "2+ hours",
+    "type": "Ghost & Mystery Tours",
+    "rating": 4.6,
+    "reviews": "1,050",
+    "price": "40"
+  }
+]

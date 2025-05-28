@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "/images/cities/city (1).jpg",
+    "country": "France",
+    "travelers": "150,000"
+  },
+  {
+    "id": 2,
+    "image": "/images/cities/city (2).jpg",
+    "country": "USA",
+    "travelers": "250,000"
+  },
+  {
+    "id": 3,
+    "image": "/images/cities/city (3).jpg",
+    "country": "Italy",
+    "travelers": "180,000"
+  },
+  {
+    "id": 4,
+    "image": "/images/cities/city (4).jpg",
+    "country": "Japan",
+    "travelers": "200,000"
+  },
+  {
+    "id": 5,
+    "image": "/images/cities/city (5).jpg",
+    "country": "Australia",
+    "travelers": "120,000"
+  },
+  {
+    "id": 6,
+    "image": "/images/cities/city (6).jpg",
+    "country": "Canada",
+    "travelers": "175,000"
+  },
+  {
+    "id": 7,
+    "image": "/images/cities/city (7).jpg",
+    "country": "Germany",
+    "travelers": "160,000"
+  },
+  {
+    "id": 8,
+    "image": "/images/cities/city (8).jpg",
+    "country": "Brazil",
+    "travelers": "140,000"
+  }
+]
