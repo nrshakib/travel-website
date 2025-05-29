@@ -1,5 +1,10 @@
 import React from "react";
+import HeroSection from "./HeroSection";
 
 export default function Home() {
-  return <div className="overflow-hidden h-[2000px]">Home</div>;
+  return (
+    <div className="overflow-hidden">
+      <HeroSection />
+    </div>
+  );
 }

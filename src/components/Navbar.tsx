@@ -42,7 +42,7 @@ export default function Navbar() {
         <div className="hidden md:flex items-center text-white md:gap-5 lg:gap-8 xl:gap-14 font-medium sm:text-sm lg:text-base">
           <Link
             href="/"
-            className={`relative inline-block pb-1 hover:border-b-2 hover:text-yellow-300 hover:border-yellow-400 transition-all duration-300 ${
+            className={`hover:border-b-2 pb-1 border-transparent hover:text-yellow-300 hover:border-b-yellow-300 ${
               pathname === "/" ? "border-white" : ""
             }`}
           >
