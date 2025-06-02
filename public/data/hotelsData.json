@@ -6,7 +6,7 @@
     "location": "Westminster, London",
     "rating": 4.6,
     "reviews": "2,345",
-    "price": "72"
+    "price": "$72"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "location": "Ciutat Vella, Barcelona",
     "rating": 4.7,
     "reviews": "1,912",
-    "price": "85"
+    "price": "$85"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "location": "Manhattan, New York",
     "rating": 4.9,
     "reviews": "3,420",
-    "price": "95"
+    "price": "$95"
   },
   {
     "id": 4,
@@ -33,6 +33,6 @@
     "location": "Vaticano Prati, Rome",
     "rating": 4.5,
     "reviews": "2,876",
-    "price": "68"
+    "price": "$68"
   }
 ]
